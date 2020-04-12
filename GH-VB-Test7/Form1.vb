@@ -6,4 +6,6 @@
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         MessageBox.Show(Date.Now.ToString("yyyy-mm-dd HH.mm.ss.fffff"))
     End Sub
+
+
 End Class
